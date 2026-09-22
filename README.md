@@ -4,7 +4,7 @@ Course material for Data Science (UAB, 2026-27): notebooks, slides, and data.
 
 ## Notebooks
 
-Click "Open in Colab" to launch a notebook directly from this repo. Each link always loads the latest version on `main` — no need to download or re-upload anything to Drive.
+Click "Open in Colab" to launch a notebook directly from this repo. 
 
 Once open, use **File → Save a copy in Drive** to get your own editable copy to work on and save.
 
@@ -52,4 +52,3 @@ Once open, use **File → Save a copy in Drive** to get your own editable copy t
 ## For instructors
 
 - Data files (CSVs) are read by the notebooks directly from this repo's raw GitHub URLs, so they work in Colab without mounting Google Drive.
-- To publish an update: edit the notebook (locally or in Colab via **File → Save a copy in GitHub**), then push to `main`. Every "Open in Colab" link above will immediately serve the new version.
