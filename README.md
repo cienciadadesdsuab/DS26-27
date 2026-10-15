@@ -20,6 +20,8 @@ Once open, use **File → Save a copy in Drive** to get your own editable copy t
 | Session 4 - Gradient Descent | 06_Gradient_Descent_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%204%20-%20Gradient%20Descent/06_Gradient_Descent_Colab.ipynb) |
 | Session 5 - Multiple Regression-20261015 | 07_Multiple_Regression_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%205%20-%20Multiple%20Regression-20261015/07_Multiple_Regression_Colab.ipynb) |
 | Session 5 - Multiple Regression-20261015 | 08_Annex_Why_R2_Equals_r2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%205%20-%20Multiple%20Regression-20261015/08_Annex_Why_R2_Equals_r2.ipynb) |
+| Session 6 - Logistic regression and regularization | 09_Logistic_Regression_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%206%20-%20Logistic%20regression%20and%20regularization/09_Logistic_Regression_Colab.ipynb) |
+| Session 6 - Logistic regression and regularization | 10_Annex_Logistic_Regression_Formulas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%206%20-%20Logistic%20regression%20and%20regularization/10_Annex_Logistic_Regression_Formulas.ipynb) |
 
 ### Problemes
 
