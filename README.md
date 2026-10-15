@@ -18,6 +18,8 @@ Once open, use **File → Save a copy in Drive** to get your own editable copy t
 | 02_Basic data manipulation with Pandas | 04_Pandas_Intro_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/02_Basic%20data%20manipulation%20with%20Pandas/04_Pandas_Intro_Colab.ipynb) |
 | 03_Linear Regression | 05_Linear_Regression_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/03_Linear%20Regression/05_Linear_Regression_Colab.ipynb) |
 | Session 4 - Gradient Descent | 06_Gradient_Descent_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%204%20-%20Gradient%20Descent/06_Gradient_Descent_Colab.ipynb) |
+| Session 5 - Multiple Regression-20261015 | 07_Multiple_Regression_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%205%20-%20Multiple%20Regression-20261015/07_Multiple_Regression_Colab.ipynb) |
+| Session 5 - Multiple Regression-20261015 | 08_Annex_Why_R2_Equals_r2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%205%20-%20Multiple%20Regression-20261015/08_Annex_Why_R2_Equals_r2.ipynb) |
 
 ### Problemes
 
@@ -29,6 +31,7 @@ Once open, use **File → Save a copy in Drive** to get your own editable copy t
 | Session 3 - Problems | 04_Problems_Linear_Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Problemes/Session%203%20-%20Problems/04_Problems_Linear_Regression.ipynb) |
 | Session 4 - Problems | 05_Problems_Gradient_Descent | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Problemes/Session%204%20-%20Problems/05_Problems_Gradient_Descent.ipynb) |
 | Session 4 - Problems | 06_Annex_Gradient_Descent_Function | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Problemes/Session%204%20-%20Problems/06_Annex_Gradient_Descent_Function.ipynb) |
+| Session 5 - Problems | 07_Problems_Multiple_Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Problemes/Session%205%20-%20Problems/07_Problems_Multiple_Regression.ipynb) |
 
 ## For instructors
 
