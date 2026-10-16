@@ -19,6 +19,7 @@ Once open, use **File → Save a copy in Drive** to get your own editable copy t
 | 03_Linear Regression | 05_Linear_Regression_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/03_Linear%20Regression/05_Linear_Regression_Colab.ipynb) |
 | Session 4 - Gradient Descent | 06_Gradient_Descent_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%204%20-%20Gradient%20Descent/06_Gradient_Descent_Colab.ipynb) |
 | Session 5 - Multiple and Polynomial Regression | 07_Multiple_and_Polynomial_Regression_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%205%20-%20Multiple%20and%20Polynomial%20Regression/07_Multiple_and_Polynomial_Regression_Colab.ipynb) |
+| Session 5 - Multiple and Polynomial Regression | Session5_Multiple_Polynomial_SOLUTIONS | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%205%20-%20Multiple%20and%20Polynomial%20Regression/Session5_Multiple_Polynomial_SOLUTIONS.ipynb) |
 
 ### Problemes
 
