@@ -22,6 +22,7 @@ Once open, use **File → Save a copy in Drive** to get your own editable copy t
 | Session 5 - Multiple and Polynomial Regression | Session5_Multiple_Polynomial_SOLUTIONS | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%205%20-%20Multiple%20and%20Polynomial%20Regression/Session5_Multiple_Polynomial_SOLUTIONS.ipynb) |
 | Session 6 - Logistic Regression and Regularization | 08_Logistic_Regression_and_Regularization_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%206%20-%20Logistic%20Regression%20and%20Regularization/08_Logistic_Regression_and_Regularization_Colab.ipynb) |
 | Session 6 - Logistic Regression and Regularization | 09_Annex_Logistic_Regression_Formulas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%206%20-%20Logistic%20Regression%20and%20Regularization/09_Annex_Logistic_Regression_Formulas.ipynb) |
+| Session 7 - PCA | 10_PCA_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%207%20-%20PCA/10_PCA_Colab.ipynb) |
 
 ### Problemes
 
@@ -33,6 +34,7 @@ Once open, use **File → Save a copy in Drive** to get your own editable copy t
 | Session 3 - Problems | 04_Problems_Linear_Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Problemes/Session%203%20-%20Problems/04_Problems_Linear_Regression.ipynb) |
 | Session 4 - Problems | 05_Problems_Gradient_Descent | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Problemes/Session%204%20-%20Problems/05_Problems_Gradient_Descent.ipynb) |
 | Session 4 - Problems | 06b_Annex_Normalisation_and_Learning_Rate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Problemes/Session%204%20-%20Problems/06b_Annex_Normalisation_and_Learning_Rate.ipynb) |
+| Session 7 - Problems | 09_Problems_PCA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Problemes/Session%207%20-%20Problems/09_Problems_PCA.ipynb) |
 | Session 4 - Problems | 06_Annex_Gradient_Descent_Function | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Problemes/Session%204%20-%20Problems/06_Annex_Gradient_Descent_Function.ipynb) |
 
 ## For instructors
