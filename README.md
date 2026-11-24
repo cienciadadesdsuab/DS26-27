@@ -24,6 +24,7 @@ Once open, use **File → Save a copy in Drive** to get your own editable copy t
 | Session 6 - Logistic Regression and Regularization | 09_Annex_Logistic_Regression_Formulas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%206%20-%20Logistic%20Regression%20and%20Regularization/09_Annex_Logistic_Regression_Formulas.ipynb) |
 | Session 7 - PCA | 10_PCA_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%207%20-%20PCA/10_PCA_Colab.ipynb) |
 | Session 8 - Probabilities | 11_Probabilities_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%208%20-%20Probabilities/11_Probabilities_Colab.ipynb) |
+| Session 8 - Probabilities | 12_Probabilities_Rodalies_Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cienciadadesdsuab/DS26-27/blob/main/Laboratoris/Session%208%20-%20Probabilities/12_Probabilities_Rodalies_Colab.ipynb) |
 
 ### Problemes
 
