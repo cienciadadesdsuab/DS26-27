@@ -1,6 +1,6 @@
 """Build bicing_snapshot.csv from the public Bicing GBFS feeds (instructor tool).
 
-Source: Bicing (Barcelona) GBFS feeds, licence CC BY
+Source: Bicing (Barcelona) GBFS feeds, Ajuntament de Barcelona, licence CC BY
   https://barcelona.publicbikesystem.net/customer/gbfs/v2/en/station_status.json
   https://barcelona.publicbikesystem.net/customer/gbfs/v2/en/station_information.json
 
